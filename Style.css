@@ -1,0 +1,186 @@
+img{
+    height: 115px;
+    
+    position: relative;
+    top: -30px;
+    right: 0px;
+    left: 760px;
+}
+
+#menu{
+    font-size: 30px;
+    
+    position: fixed;
+    right: 100px;
+    top: 20px;
+    color: #005f98;
+    
+}
+
+
+#location{
+
+    font-size: 30px;
+    
+    position: fixed;
+    right: 150px;
+    top: 20px;
+    color: #005f98;
+
+}
+
+
+
+#CoffeeLogo{
+    font-size: 30px;
+    
+    position: fixed;
+    right: 200px;
+    top: 22px;
+    color: #005f98;
+
+}
+
+
+
+
+
+
+#bar{
+  
+    height: 5px;
+    border-style: solid ;
+    border-width:2px;
+    border-color: #005f98;
+    border-radius: 30px;
+    padding: 15px;
+    width: 300px;
+
+    position: relative;
+    left: 1300px;
+}
+
+
+#SearchGlass{
+
+    position: relative;
+    left: 920px;
+    top: 12px;
+    font-size: 30px;
+    color: #005f98;
+}
+
+#Menu{
+
+    color: #005f98;
+
+        font-family: "Tauri", sans-serif;
+        font-weight: bold;
+        font-style: normal;
+      }
+      
+
+#Image2{
+    height: 300px;
+    
+    position: fixed;
+    left: 100px;
+    top: 400px;
+}
+
+#Image1{
+    
+height: 300px;
+width: 350px;
+
+position: fixed;
+
+left: 680px;
+right: 100px;
+top: 400px;
+}
+
+#Image3{
+    height: 230px;
+    position: fixed;
+
+    top: 450px;
+    left: 1250px;
+
+}
+
+h3{
+    color: #005f98;
+    font-family: "Peignot-Bold";
+}
+
+#SeasonalDrinks{
+
+    position: fixed;
+
+    top: 720px;
+    left: 160px;
+}
+
+#DutchFaves{
+
+    position: fixed;
+
+    top: 720px;
+    left: 800px;
+}
+
+#Lemonades{
+
+    position: fixed;
+
+    top: 720px;
+    left: 1400px;
+
+}
+
+.Blackbar{
+
+    width:            100%;
+    height:           2px;
+    background:       #DDD;
+    margin-top:       5px;
+    padding:          0px;
+}
+
+
+.Login{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #005f98;
+    font-size: large;
+
+    position: fixed;
+    top: 10px;
+    left: 90px;
+}
+
+.Signup{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #005f98;
+    font-size: large;
+
+    position: fixed;
+    top: 10px;
+    left: 170px;
+
+}
+
+.Rewards{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    color: #005f98;
+
+    position: fixed;
+    top: 10px;
+    left: 270px;
+
+}
