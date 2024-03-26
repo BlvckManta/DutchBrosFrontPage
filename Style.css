@@ -157,8 +157,8 @@ h3{
     font-size: large;
 
     position: relative;
-    top: 10px;
-    left: 90px;
+    top: -160px;
+    left: 60px;
 }
 
 .Signup{
@@ -168,8 +168,8 @@ h3{
     font-size: large;
 
     position: relative;
-    top: 10px;
-    left: 170px;
+    top: -196px;
+    left: 160px;
 
 }
 
@@ -180,7 +180,7 @@ h3{
     color: #005f98;
 
     position: relative;
-    top: 10px;
+    top: -232px;
     left: 270px;
 
 }
