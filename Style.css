@@ -10,7 +10,7 @@ img{
 #menu{
     font-size: 30px;
     
-    position: fixed;
+    position: relative;
     right: 100px;
     top: 20px;
     color: #005f98;
@@ -22,7 +22,7 @@ img{
 
     font-size: 30px;
     
-    position: fixed;
+    position: relative;
     right: 150px;
     top: 20px;
     color: #005f98;
@@ -34,7 +34,7 @@ img{
 #CoffeeLogo{
     font-size: 30px;
     
-    position: fixed;
+    position: relative;
     right: 200px;
     top: 22px;
     color: #005f98;
@@ -64,8 +64,8 @@ img{
 #SearchGlass{
 
     position: relative;
-    left: 920px;
-    top: 12px;
+    left: 1270px;
+    top: 220px;
     font-size: 30px;
     color: #005f98;
 }
@@ -83,7 +83,7 @@ img{
 #Image2{
     height: 300px;
     
-    position: fixed;
+    position: relative;
     left: 100px;
     top: 400px;
 }
@@ -93,7 +93,7 @@ img{
 height: 300px;
 width: 350px;
 
-position: fixed;
+position: relative;
 
 left: 680px;
 right: 100px;
@@ -102,7 +102,7 @@ top: 400px;
 
 #Image3{
     height: 230px;
-    position: fixed;
+    position: relative;
 
     top: 450px;
     left: 1250px;
@@ -116,7 +116,7 @@ h3{
 
 #SeasonalDrinks{
 
-    position: fixed;
+    position: relative;
 
     top: 720px;
     left: 160px;
@@ -124,7 +124,7 @@ h3{
 
 #DutchFaves{
 
-    position: fixed;
+    position: relative;
 
     top: 720px;
     left: 800px;
@@ -132,7 +132,7 @@ h3{
 
 #Lemonades{
 
-    position: fixed;
+    position: relative;
 
     top: 720px;
     left: 1400px;
@@ -156,7 +156,7 @@ h3{
     color: #005f98;
     font-size: large;
 
-    position: fixed;
+    position: relative;
     top: 10px;
     left: 90px;
 }
@@ -167,7 +167,7 @@ h3{
     color: #005f98;
     font-size: large;
 
-    position: fixed;
+    position: relative;
     top: 10px;
     left: 170px;
 
@@ -179,7 +179,7 @@ h3{
     font-size: large;
     color: #005f98;
 
-    position: fixed;
+    position: relative;
     top: 10px;
     left: 270px;
 
