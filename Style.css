@@ -1,5 +1,5 @@
 img{
-    height: 115px;
+    height: 120px;
     
     position: relative;
     top: -30px;
@@ -11,8 +11,8 @@ img{
     font-size: 30px;
     
     position: relative;
-    right: 100px;
-    top: 20px;
+    left: 1500px;
+    top: -100px;
     color: #005f98;
     
 }
@@ -23,8 +23,8 @@ img{
     font-size: 30px;
     
     position: relative;
-    right: 150px;
-    top: 20px;
+    left: 1600px;
+    top: -100px;
     color: #005f98;
 
 }
@@ -35,8 +35,8 @@ img{
     font-size: 30px;
     
     position: relative;
-    right: 200px;
-    top: 22px;
+    left: 1498px;
+    top: -100px;
     color: #005f98;
 
 }
@@ -64,9 +64,9 @@ img{
 #SearchGlass{
 
     position: relative;
-    left: 1270px;
-    top: 220px;
-    font-size: 30px;
+    left: 923px;
+    bottom: -13px;
+    font-size: 33px;
     color: #005f98;
 }
 
@@ -85,7 +85,7 @@ img{
     
     position: relative;
     left: 100px;
-    top: 400px;
+    top: -230px;
 }
 
 #Image1{
@@ -97,14 +97,14 @@ position: relative;
 
 left: 680px;
 right: 100px;
-top: 400px;
+top: 136px;
 }
 
 #Image3{
     height: 230px;
     position: relative;
 
-    top: 450px;
+    top: -550px;
     left: 1250px;
 
 }
@@ -118,7 +118,7 @@ h3{
 
     position: relative;
 
-    top: 720px;
+    top: 170px;
     left: 160px;
 }
 
@@ -126,7 +126,7 @@ h3{
 
     position: relative;
 
-    top: 720px;
+    top: -195px;
     left: 800px;
 }
 
@@ -134,7 +134,7 @@ h3{
 
     position: relative;
 
-    top: 720px;
+    top: -485px;
     left: 1400px;
 
 }
@@ -143,8 +143,8 @@ h3{
 
     width:            100%;
     height:           2px;
-    background:       #DDD;
-    margin-top:       5px;
+    background: linear-gradient(-180deg, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);
+    margin-top:       -200px;
     padding:          0px;
 }
 
@@ -157,7 +157,7 @@ h3{
     font-size: large;
 
     position: relative;
-    top: -160px;
+    top: -150px;
     left: 60px;
 }
 
@@ -168,7 +168,7 @@ h3{
     font-size: large;
 
     position: relative;
-    top: -196px;
+    top: -186px;
     left: 160px;
 
 }
@@ -180,7 +180,7 @@ h3{
     color: #005f98;
 
     position: relative;
-    top: -232px;
+    top: -222px;
     left: 270px;
 
 }
